@@ -1,0 +1,55 @@
+body{
+    background-color:rgb(65, 105, 225);
+}
+#navDiv{
+    background-color: #D3D4D9;
+    width: 100%;
+    position: fixed;
+    left: 0;
+    top: 0;
+    z-index: 2;
+}
+#headerDiv{
+    background-color: #D3D4D9;
+    border: solid;
+}
+h2{
+    text-decoration: underline;
+    color: #3A2E39;
+}
+h3{
+    color: #3A2E39;
+}
+#headerColor{
+    color: gray;
+}
+#introDiv{
+    background-color: #F9DEC9;
+    border: solid;
+}
+p{
+    color: #3A2E39;
+}
+.intro{
+    font-size: 1.5em;
+    color:gray;
+}
+img{
+    width: 50%;
+    position: relative;
+    left: 25%;
+}
+li{
+    font-style: bold;
+}
+a{
+    color: purple;
+}
+#tableDiv{
+    background-color: gray;
+    border: solid;
+}
+#videoDiv{
+    background-color: #D3D4D9;
+    border: solid;
+}
